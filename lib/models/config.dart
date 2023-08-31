@@ -5,3 +5,4 @@ class Configure {
   static Users login = Users();
   static List<String> gender = ["None", "Male", "Female"];
 }
+// 
