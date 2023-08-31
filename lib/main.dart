@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Users CRUD EIEI',
+      title: 'Users CRUD',
       initialRoute: '/',
       routes: {
         '/': (context) => const Home(),
