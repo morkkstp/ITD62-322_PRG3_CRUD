@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Setthapong Kiankhao",
+      "email": "sett@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullname": "Kasidit Boonchai",
+      "email": "kasi@test.com",
+      "password": "qaqaqa",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "fullname": "Jenny Cook",
+      "email": "jenny@test.com",
+      "password": "wswswsws",
+      "gender": "Female"
+    }
+  ]
+}
