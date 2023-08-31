@@ -46,7 +46,7 @@ class _LoginState extends State<Login> {
 
   Widget emailInputField() {
     return TextFormField(
-      initialValue: "sett</Users>@test.com",
+      initialValue: "sett@test.com",
       decoration: InputDecoration(labelText: "Email:", icon: Icon(Icons.email)),
       validator: (value) {
         if (value!.isEmpty) {
